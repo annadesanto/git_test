@@ -1,3 +1,7 @@
 "Hello World"
 
 "Here I will practice editing and using the Git workflow"
+
+" I am practicing how to push changes to the GitHub Repository"
+
+Step 1: git add.        
